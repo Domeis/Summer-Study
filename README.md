@@ -5,7 +5,7 @@ Human Factors Psychology Lab Summer study 2019 (Archiving purposes) <br>
 &nbsp;&nbsp;&nbsp;     -For further EEG material, visit @clararhee https://github.com/clararhee/summer-study  <br>
 
 ### 2) HCI Literature review <br> 
-#####Topics <br>
+##### Topics <br>
 &nbsp;&nbsp;&nbsp; - Technology Acceptance <br>
 &nbsp;&nbsp;&nbsp; - User Interface <br>
 &nbsp;&nbsp;&nbsp; - User Experience <br>
